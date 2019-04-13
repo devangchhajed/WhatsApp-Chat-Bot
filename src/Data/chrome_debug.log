@@ -1,0 +1,102 @@
+[17644:21736:0401/145034.332:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/145036.509:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:24408:0401/145036.531:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:21736:0401/145039.339:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145044.346:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145049.352:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145054.362:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145059.368:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145104.375:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145109.382:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145114.392:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145119.403:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145124.411:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145129.417:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145134.424:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145139.430:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145144.437:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145149.449:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145154.456:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145158.926:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145158.976:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145159.462:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145203.935:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/145203.982:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:21736:0401/145203.984:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145204.471:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145208.943:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145208.992:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145209.478:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/145213.649:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:24408:0401/145213.651:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:21736:0401/145213.954:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145214.001:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145214.487:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145218.962:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145219.007:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145219.496:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145223.968:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145224.015:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145224.504:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145225.075:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145228.976:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145229.022:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145229.511:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145230.084:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145233.982:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145234.034:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145234.517:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145235.090:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145238.990:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145239.042:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145239.524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145240.100:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145243.997:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145244.050:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145244.533:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145245.106:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145249.004:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145249.057:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145249.540:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145250.115:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145254.010:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145254.063:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145254.547:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145255.123:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.016:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.069:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.344:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.377:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.414:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145259.555:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145300.130:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/145303.685:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_CHANGED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:21736:0401/145338.226:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145343.232:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145348.239:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145353.246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145358.253:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145403.261:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145408.271:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145413.278:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145418.285:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145423.292:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145428.298:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145433.305:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145438.312:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145443.322:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145448.329:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145453.336:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145458.344:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145503.352:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145508.361:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145513.372:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145518.381:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145523.387:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/145528.420:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/151232.346:INFO:CONSOLE(19)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.1c910a99b9a8ac567544.js (19)
+[17644:21736:0401/151233.490:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:21736:0401/151238.516:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[17644:24408:0401/151244.170:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[17644:24408:0401/151244.170:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[17644:24408:0401/151244.170:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
